@@ -1,6 +1,6 @@
 # Data Exploration & Multiple-Linear-Regression (MLR) on two different Datasets using SAS v9.4.
 
-# Case Study-1: Fuel Consumption Dataset.
+## Case Study-1: Fuel Consumption Dataset.
 
 • The goal is to ask meaningful questions and answer them with the results from regression analysis.
 
