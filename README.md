@@ -10,11 +10,11 @@
 
 • Got meaningful insights from the analysis like: response variable and its variable type, variables relevant to the analysis, preliminary exploratory data analysis, including some summary statistics and visualizations, along with some explanation on how they help learn more about the data.
 
-# Case Study-2: Bill Clinton's 1992 Presidential Election & Demographic Dataset.
+## Case Study-2: Bill Clinton's 1992 Presidential Election & Demographic Dataset.
 
 • The aim is to determine the relationship between the response variable (votes) and other predictor variables and study the effect of these variables on the number of votes in particular county.
 
-# Application: 
+## Application: 
 Demand Forecasting, Inventory Management, Sales Forecasting, Regression Methods in Statistical Process Control (SPC), Multivariate Quality Control Based on Regression, MLR for Manufacturing Analysis (Raw Material Influence on Production Quality), etc.
 
 
